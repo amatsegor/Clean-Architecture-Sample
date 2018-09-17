@@ -10,3 +10,6 @@ So, a dependency rule is there, you can take a `data` layer and test it separate
 
 ## Clean architecture
 ![https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/](https://cdn-images-1.medium.com/max/1600/1*dtL10Oo6gUKZU6GEt85Few.png)
+
+## Sequence diagram
+![](https://i101.fastpic.ru/big/2018/0917/66/cb658b056efe63bfa7d9d224432a3e66.png)
