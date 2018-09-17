@@ -8,7 +8,7 @@ Here's a simple Android app on which I've tried to implement a Clean Architectur
 
 So, a dependency rule is there, you can take a `data` layer and test it separately, without mocking a `Context`, only mocking data sources
 
-## Clean architecture
+## Dependency rule
 ![https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/](https://five.agency/wp-content/uploads/2016/11/Graph-1.png)
 
 ## Sequence diagram
