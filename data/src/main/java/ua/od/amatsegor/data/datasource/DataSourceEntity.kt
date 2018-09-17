@@ -1,0 +1,3 @@
+package example.data.datasource
+
+interface DataSourceEntity
